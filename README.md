@@ -63,6 +63,9 @@ This project focuses on detecting anomalies in the **Auxiliary Power Unit (APU)*
 - **June 5-7, 2020**: Predicted anomalies matched reported failures.
 
 ---
+## Detailed Analysis
+[View Analysis Notebook](https://github.com/gudashashank/apu-sensor-failure-prediction/blob/main/IST_718_Final_Project_Code_Team_2_4.ipynb)
+---
 
 ## Challenges
 
