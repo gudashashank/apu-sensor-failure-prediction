@@ -1,5 +1,7 @@
 # Anomaly Detection in Auxiliary Power Unit (APU) of Metro Trains
 
+![Anomaly Detection Results](anomaly-detection-in-auxiliary-power-unit--apu--of.jpg)
+
 ## Project Overview
 This project focuses on detecting anomalies in the **Auxiliary Power Unit (APU)** of metro trains using sensor data. The goal is to enable **predictive maintenance**, enhance system reliability, and minimize downtime by identifying potential failures early.
 
