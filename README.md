@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with <3 by [Shashank Guda](https://shashankguda.me)**
+**Made with 💙 by [Shashank Guda](https://shashankguda.me)**
